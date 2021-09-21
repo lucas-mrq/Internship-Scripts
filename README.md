@@ -1,6 +1,6 @@
 <!-- Internship Scripts -->
 ## Internship Scripts
-Archimate is an open source software that allows IT architects to make schemas covering the different parts of a single enterprise project. jArchi is a plug-in that allows scripts to be executed in Archimate and my internship demonstrated its usefulness in the daily work of the department. 
+After my first year of engineering school I did an internship in a team of IT architects. They were using Archimate for their schematics but had problems with duplicates in their projects. The objective of my internship was to create a jArchi scipt (a plugin allowing to create scripts in Javascript, inspired by its jQuery library) that would remove these duplicates. Having fulfilled this objective rather quickly, I developed about ten scripts helping my colleagues in their work. Archimate is an open source software that allows IT architects to make schemas covering the different parts of a single enterprise project. jArchi is a plug-in that allows scripts to be executed in Archimate and my internship demonstrated its usefulness in the daily work of the department. 
 
 
 <!-- TABLE OF CONTENTS -->
