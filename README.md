@@ -68,6 +68,11 @@ These last two scripts are improvements on two previously presented scripts usin
 <p align="center"><img src="pictures/deleteAllDuplicatesv2.png"></p align="center">
 
 
+<!-- CONTACT -->
+## Contact
+
+Lucas MARQUET -  lucasmarquet63800@gmail.com
+
 
 <!-- PS -->
 ## PS
